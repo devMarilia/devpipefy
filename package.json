@@ -7,7 +7,10 @@
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "react": "^16.13.1",
+    "react-dnd": "^11.0.0",
+    "react-dnd-html5-backend": "^11.0.0",
     "react-dom": "^16.13.1",
+    "react-end": "^0.0.1",
     "react-icons": "^3.10.0",
     "react-scripts": "3.4.1",
     "styled-components": "^5.1.0"

@@ -12,7 +12,7 @@ export const Container = styled.div`
 
     header {
         position: absolute;
-        top: -22px;
+        top: -30px;
         left: 15px;
 
     }
@@ -29,7 +29,7 @@ export const Container = styled.div`
 `;
 
 export const Label = styled.span`
-    weight: 10px;
+    width : 10px;
     height: 10px;
     border-radius: 2px;
     display: inline-block;
