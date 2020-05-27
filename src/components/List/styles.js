@@ -18,7 +18,7 @@ export const Container = styled.div`
     height: 40px;
   h2 {
     font-weight: 500px;
-    font-size: 16px;
+    font-size: 17px;
     padding: 10px
   }
     button {
